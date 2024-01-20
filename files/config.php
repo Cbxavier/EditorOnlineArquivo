@@ -1,0 +1,3 @@
+<?php 
+DEFINE('HOST', root)
+?>

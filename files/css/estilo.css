@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+a{
+	color: #000;
+	text-decoration: none;
+
+}
+a:visited {
+    color: #000;
+}
+.lista-arquivo-single{
+	background: #d0d3d8;
+	padding: 10px;
+	border-bottom: 3px solid #adb0b5;
+	font-weight: 400;
+	cursor: pointer;
+}
+
+.lista-arquivo-single:hover{
+	background: #ccc;
+}
